@@ -1,3 +1,3 @@
 # musicPage
 
-A static website for music community
+A static website for music community.
